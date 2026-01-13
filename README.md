@@ -3,7 +3,7 @@
 Cloud Architect · AI & Multi-Agent Systems Builder · Tech Leader
 
 - **Website**: [https://bycerebro.com](https://bycerebro.com)
-- **GitHub Pages**: [https://felipe-munoz.com/](https://felipe-munoz.com)
+- **GitHub Pages**: [https://felipe-munoz.com](https://felipe-munoz.com)
 - **LinkedIn**: [https://www.linkedin.com/in/felipe-munoz-arroyave/](https://www.linkedin.com/in/felipe-munoz-arroyave/)
 - **GitHub**: [https://github.com/l-felipe-munoz](https://github.com/l-felipe-munoz)
 
